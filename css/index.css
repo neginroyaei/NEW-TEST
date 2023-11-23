@@ -1,0 +1,10 @@
+@font-face {
+    font-family: vazir;
+    src: url(/fonts/Vazirmatn-Medium.woff2) format(woff2);
+}
+*{font-family: vazir;
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+
+}
